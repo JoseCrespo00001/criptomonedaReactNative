@@ -16,7 +16,7 @@ Esta es una aplicación móvil desarrollada con React Native que te permite obte
 
 
 
-<img src="https://github.com/JoseCrespo00001/criptomonedaReactNative/assets/123144789/72c79b92-f202-40d3-80d8-7679221ee55d" width="30%" height="30%">
+<img src="https://github.com/JoseCrespo00001/criptomonedaReactNative/assets/123144789/72c79b92-f202-40d3-80d8-7679221ee55d">
 
 
 ## Tecnologías Utilizadas
